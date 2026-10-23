@@ -36,5 +36,5 @@ FPGA + Embedded Linux based SDR platform featuring:
 
 ## 📫 Contact
 
-- LinkedIn: [Ramin Chegini](YOUR_LINKEDIN_URL)
+- LinkedIn: [Ramin Chegini](https://www.linkedin.com/in/ramin-chegini/)
 - GitHub: [ramin-chegini](https://github.com/ramin-chegini)
